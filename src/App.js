@@ -1,25 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Fragment } from "react";
+import "./App.css";
+import HeroImage from "./utils/HeroImage";
+import TextHero from "./components/TextHero";
+import Contact from "./pages/Contact";
+import Bio from "./pages/Bio";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Fragment>
+      <div className="container mt-thq">
+        <div className="row">
+          <div className="col-sm">
+            <HeroImage />
+          </div>
+          <div className="col-sm">
+            <TextHero />
+          </div>
+        </div>
+      </div>
+
+      <div id="section2" className="container driver ">
+        <Bio />
+      </div>
+
+      <div className=" mt-5 mb-5 section-2 bg-bottom">
+        <Contact />
+      </div>
+    </Fragment>
   );
 }
 
