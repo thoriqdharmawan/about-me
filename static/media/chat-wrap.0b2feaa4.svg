@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="559.236" height="377" viewBox="0 0 559.236 377">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #f76c6c;
+      }
+    </style>
+  </defs>
+  <g id="chat-wrap" transform="translate(7 6)">
+    <rect id="Rectangle_67" data-name="Rectangle 67" class="cls-1" width="559" height="377" transform="translate(-7 -6)"/>
+    <g id="Chat3">
+      <path id="Path_22" data-name="Path 22" class="cls-2" d="M746.9,403.5H631.5V441.6l9.661-9.662H746.9Z" transform="translate(-311.873 -199.27)"/>
+      <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-3" width="64.921" height="5.264" transform="translate(345.373 211.132)"/>
+      <rect id="Rectangle_35" data-name="Rectangle 35" class="cls-3" width="64.921" height="5.264" transform="translate(345.373 219.028)"/>
+    </g>
+    <g id="chat2">
+      <path id="Path_23" data-name="Path 23" class="cls-2" d="M316,260H431.4V298.1l-9.661-9.662H316Z" transform="translate(-156.06 -128.402)"/>
+      <rect id="Rectangle_36" data-name="Rectangle 36" class="cls-3" width="64.921" height="5.264" transform="translate(179.612 139.007)"/>
+      <rect id="Rectangle_37" data-name="Rectangle 37" class="cls-3" width="64.921" height="5.264" transform="translate(179.612 146.903)"/>
+    </g>
+    <g id="chat1">
+      <path id="Path_24" data-name="Path 24" class="cls-2" d="M884.64,118.642H667v71.872l18.221-18.221H884.64Z" transform="translate(-332.405 -66.592)"/>
+      <rect id="Rectangle_38" data-name="Rectangle 38" class="cls-3" width="149.817" height="12.147" transform="translate(368.507 64.197)"/>
+      <rect id="Rectangle_39" data-name="Rectangle 39" class="cls-3" width="149.817" height="12.147" transform="translate(368.507 82.418)"/>
+    </g>
+  </g>
+</svg>

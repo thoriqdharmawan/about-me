@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/about-me/static/css/main.d112d561.chunk.css",
+    "main.js": "/about-me/static/js/main.0fd7eca5.chunk.js",
+    "main.js.map": "/about-me/static/js/main.0fd7eca5.chunk.js.map",
+    "runtime-main.js": "/about-me/static/js/runtime-main.834609c8.js",
+    "runtime-main.js.map": "/about-me/static/js/runtime-main.834609c8.js.map",
+    "static/js/2.f26c7ec4.chunk.js": "/about-me/static/js/2.f26c7ec4.chunk.js",
+    "static/js/2.f26c7ec4.chunk.js.map": "/about-me/static/js/2.f26c7ec4.chunk.js.map",
+    "index.html": "/about-me/index.html",
+    "precache-manifest.ee2f073220352f6eb6f9737fdea518fe.js": "/about-me/precache-manifest.ee2f073220352f6eb6f9737fdea518fe.js",
+    "service-worker.js": "/about-me/service-worker.js",
+    "static/css/main.d112d561.chunk.css.map": "/about-me/static/css/main.d112d561.chunk.css.map",
+    "static/js/2.f26c7ec4.chunk.js.LICENSE": "/about-me/static/js/2.f26c7ec4.chunk.js.LICENSE",
+    "static/media/chat-wrap.svg": "/about-me/static/media/chat-wrap.0b2feaa4.svg",
+    "static/media/daun.svg": "/about-me/static/media/daun.7c651f28.svg",
+    "static/media/orang.svg": "/about-me/static/media/orang.5de47f97.svg",
+    "static/media/user-thoriq.jpg": "/about-me/static/media/user-thoriq.3c9ec638.jpg",
+    "static/media/user.jpg": "/about-me/static/media/user.2117fc70.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.834609c8.js",
+    "static/js/2.f26c7ec4.chunk.js",
+    "static/css/main.d112d561.chunk.css",
+    "static/js/main.0fd7eca5.chunk.js"
+  ]
+}
